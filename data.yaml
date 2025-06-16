@@ -1,0 +1,6 @@
+train: C:/Users/22070/Downloads/Packaging quality control.v1i.yolov12/train
+val: C:/Users/22070/Downloads/Packaging quality control.v1i.yolov12/valid
+test: C:/Users/22070/Downloads/Packaging quality control.v1i.yolov12/test
+
+nc: 5
+names: ['cut', 'hole', 'rupture', 'scuff', 'wrinkle']
